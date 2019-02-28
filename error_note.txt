@@ -1,0 +1,2 @@
+﻿# 이 파일에는 각자 경험했던 오류를 기록 / In this file, record errors and mistakes
+# 다음 연습으로 넘어 가기 전 한번씩 읽어 볼 것 / Read this before starting next exercise
